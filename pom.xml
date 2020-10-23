@@ -13,7 +13,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
+  <dependency>
+  <groupId>org.sonarsource.scanner.cli</groupId>
+  <artifactId>sonar-scanner-cli</artifactId>
+  <version>2.6.1</version>
+  <type>pom</type>
+</dependency>
+</dependencies>
   <distributionManagement>
 
 		<repository>
