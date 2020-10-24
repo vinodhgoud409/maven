@@ -11,7 +11,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
-      <scope>tested</scope>
+      <scope>test</scope>
     </dependency>
   <dependency>
   <groupId>org.sonarsource.scanner.cli</groupId>
